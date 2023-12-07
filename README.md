@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
 <h3 align="center">Software developer from Turkey</h3>
 
-- 🔭 I’m currently working on **BlackBox Earthquake Project**
-
 - 📫 How to reach me **hsynntsdmr@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
